@@ -1,0 +1,9 @@
+{
+  "name": "3",
+  "description": "if it rains then take an umbrella",
+  "condition": "rain == true",
+  "priority": 3,
+  "actions": [
+    "System.out.println(\"It rains, take an umbrella!\nJson file message!\")"
+  ]
+}
